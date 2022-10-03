@@ -1,1 +1,1 @@
-# Devops-fundamentals
+# jenkins-example-scripted-vs-declarative
